@@ -8,7 +8,7 @@
   "server": {
     "ip": "contentsmp.playserver.pro",
     "port": 13677,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
